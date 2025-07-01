@@ -19,6 +19,96 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   and tell the learner why they should take the course.
 -->
 
+## Step 5: Merge your pull request
+
+_Great job adding a task list to the file :heart:_
+
+You can now [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your work!
+
+### :keyboard: Activity: Complete the course
+
+Since we're working locally, let's commit all your changes and merge them to complete the course:
+
+1. Commit all your Markdown changes to the `index.md` file
+2. Switch back to the main branch
+3. Merge your `start-markdown` branch
+
+**What you've accomplished:**
+- ✅ Added headers (H1-H6)
+- ✅ Included an image with alt text
+- ✅ Added code examples (inline and blocks)
+- ✅ Created a task list with checkboxes
+
+Great work learning Markdown! 🎉
+
+## Step 4: Make a task list
+
+_Great job adding a code example to the file :partying_face:_
+
+**What is a _task list_?** A task list creates checkboxes to check off. They're very useful for tracking issues and pull requests. If you include a task list in the body of an issue or pull request, you'll see a progress indicator in your issue list. The syntax for task lists is very specific. Be sure to include the spaces where required, or else they won't render.
+
+### Example
+
+```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+```
+
+#### How it looks
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+### :keyboard: Activity: Add a task list
+
+1. Edit the `index.md` file in this repository.
+2. Use Markdown to create a task list. Here is an example:
+
+   ```md
+   - [ ] Turn on GitHub Pages
+   - [ ] Outline my portfolio
+   - [ ] Introduce myself to the world
+   ```
+
+   Remember, a task list starts with the syntax `- [ ]` and then the task list item. The formatting is specific!
+
+3. Use the **Preview** tab to check your Markdown formatting.
+4. Commit the changes to continue to the next step.
+
+**Task List Syntax:**
+- `- [x] Completed task` (checked)
+- `- [ ] Incomplete task` (unchecked)
+
+## Step 2: Add an image
+
+_Great job adding headers to the file :sparkles:_
+
+Let's add an image. Include descriptive text in the square brackets. This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection. You can see the syntax for images below:
+
+### Example
+
+```md
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+
+#### How it looks
+
+<img alt="Image of Yaktocat" src=https://octodx.github.com/images/yaktocat.png width=400>
+
+### :keyboard: Activity: Adding an image
+
+1. Edit the `index.md` file in this repository.
+2. In the file, add the correct Markdown for your image of choice. Don't forget to include alt-text!
+3. Use the **Preview** tab to check your Markdown formatting.
+4. Commit your changes to continue to the next step.
+
+**Image Syntax:**
+```md
+![Alt text](image-url)
+```
+
 ## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_

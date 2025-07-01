@@ -19,6 +19,43 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   and tell the learner why they should take the course.
 -->
 
+## Step 1: Add headers
+
+_Welcome to "Communicate using Markdown"! :wave:_
+
+**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
+
+- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
+- Files with the `.md` or `.markdown` extension
+- Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+
+**What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+
+### Example
+
+```md
+# This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
+```
+
+#### How it looks
+
+# This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
+
+### :keyboard: Activity: Edit your file with headers
+
+1. Open the `index.md` file in this repository.
+2. Add a `#`, followed by a **space**, before any content you like to make it an H1 Header. You can add more headers, using one to six `#` characters followed by a **space**.
+3. Preview your changes to see how they look.
+4. Commit your changes to continue to the next step.
+
 ## Welcome
 
 GitHub is about more than code. It’s a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This course will walk you through creating and using headings more effectively, organizing thoughts in bulleted lists, and showing how much work you’ve completed with checklists. You can even use Markdown to add some depth to your work with the help of emoji, images, and links.
